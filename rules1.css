@@ -1,0 +1,18 @@
+@import "./rules2.css";
+
+.about {
+        color: black;
+
+}
+
+
+p {
+    background-color: red;
+}
+#myid {
+    background-color: blue !important;
+}
+
+.myclass {
+    background-color: orange;
+}
